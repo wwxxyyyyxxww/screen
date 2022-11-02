@@ -1,0 +1,25 @@
+#app {
+  width: 100%;   
+  background: #0f1434;
+  height: 100%;
+  color:white;
+  overflow-y: auto;
+}
+body,html{
+  box-sizing: border-box;
+  height: 100%;
+}
+
+body, div, span, header, footer, nav, section, aside, article, ul, dl, dt, dd, li, a, p, h1, h2, h3, h4,h5, h6, i, b, textarea, button, input, select, figure, figcaption, form {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  border: none;
+  font-family: 'Arial','PingFang SC','Microsoft Yahei','sans-serif';
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}

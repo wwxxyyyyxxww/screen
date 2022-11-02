@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1868px" height="65px" viewBox="0 0 1868 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <defs>
+        <polygon id="path-1" points="28 49.9472446 152.965697 49.9472446 152.965697 22 28 22"></polygon>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#2D98FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2D98FF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.195962%" y1="0%" x2="100%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#2D98FF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#2D98FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="16.6598742%" x2="0%" y2="16.6598742%" id="linearGradient-5">
+            <stop stop-color="#3DCBDD" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2F95FA" offset="50.584092%"></stop>
+            <stop stop-color="#25BFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="大屏" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="端到端方案设计_传输网设计" transform="translate(-26.000000, -25.000000)">
+            <g id="title" transform="translate(26.000000, 25.000000)">
+                <g id="编组-4">
+                    <g id="编组-41" transform="translate(607.000000, 0.000000)">
+                        <path d="M616.788229,0.5 L647.302968,31.9990853 L616.788359,63.3330603 L32.7094869,63.4999401 L1.66146513,31.9313898 L32.7089089,0.5 L616.788229,0.5 Z" id="形状结合" stroke-opacity="0.3" stroke="#2D98FF" fill-opacity="0.1" fill="#2D98FF"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-12"></g>
+                    </g>
+                    <g id="编组-2">
+                        <line x1="608" y1="31.5" x2="0" y2="31.5" id="路径-34" stroke="url(#linearGradient-3)"></line>
+                        <line x1="1868" y1="31.5" x2="1253.5" y2="32" id="路径-34" stroke="url(#linearGradient-4)"></line>
+                        <line x1="717.290706" y1="63.6396103" x2="1192.48404" y2="63.6396103" id="直线-2" stroke="url(#linearGradient-5)" stroke-linecap="square"></line>
+                        <line x1="717.290706" y1="0.639610307" x2="1192.48404" y2="0.639610307" id="直线-2" stroke="url(#linearGradient-5)" stroke-linecap="square"></line>
+                    </g>
+                </g>
+                <g id="编组-33" transform="translate(184.000000, 2.000000)" fill="#2D98FF" stroke="#2D98FF" stroke-opacity="0.3">
+                    <path d="M318.496968,0.5 L337.617388,20.5 L321.333641,20.5 L302.213221,0.5 L318.496968,0.5 Z" id="矩形备份-2" fill-opacity="0.6" transform="translate(319.915304, 10.500000) scale(-1, 1) translate(-319.915304, -10.500000) "></path>
+                    <path d="M343.583925,0.5 L362.704344,20.5 L346.420597,20.5 L327.300178,0.5 L343.583925,0.5 Z" id="矩形备份-2" fill-opacity="0.6" transform="translate(345.002261, 10.500000) scale(-1, 1) translate(-345.002261, -10.500000) "></path>
+                    <path d="M368.670881,0.5 L387.791301,20.5 L371.507554,20.5 L352.387134,0.5 L368.670881,0.5 Z" id="矩形备份-2" fill-opacity="0.6" transform="translate(370.089217, 10.500000) scale(-1, 1) translate(-370.089217, -10.500000) "></path>
+                    <path d="M393.757838,0.5 L412.878257,20.5 L396.59451,20.5 L377.474091,0.5 L393.757838,0.5 Z" id="矩形备份" fill-opacity="0.6" transform="translate(395.176174, 10.500000) scale(-1, 1) translate(-395.176174, -10.500000) "></path>
+                    <path d="M418.844794,0.5 L437.965214,20.5 L421.681467,20.5 L402.561047,0.5 L418.844794,0.5 Z" id="矩形" fill-opacity="0.6" transform="translate(420.263131, 10.500000) scale(-1, 1) translate(-420.263131, -10.500000) "></path>
+                    <path d="M268.323055,0.5 L287.443474,20.5 L271.159727,20.5 L252.039308,0.5 L268.323055,0.5 Z" id="矩形" fill-opacity="0.55" transform="translate(269.741391, 10.500000) scale(-1, 1) translate(-269.741391, -10.500000) "></path>
+                    <path d="M293.410012,0.5 L312.530431,20.5 L296.246684,20.5 L277.126265,0.5 L293.410012,0.5 Z" id="矩形" fill-opacity="0.6" transform="translate(294.828348, 10.500000) scale(-1, 1) translate(-294.828348, -10.500000) "></path>
+                    <path d="M243.236099,0.5 L262.356518,20.5 L246.072771,20.5 L226.952352,0.5 L243.236099,0.5 Z" id="矩形备份" fill-opacity="0.5" transform="translate(244.654435, 10.500000) scale(-1, 1) translate(-244.654435, -10.500000) "></path>
+                    <path d="M218.149142,0.5 L237.269561,20.5 L220.985814,20.5 L201.865395,0.5 L218.149142,0.5 Z" id="矩形备份-2" fill-opacity="0.45" transform="translate(219.567478, 10.500000) scale(-1, 1) translate(-219.567478, -10.500000) "></path>
+                    <path d="M193.062186,0.5 L212.182605,20.5 L195.898858,20.5 L176.778439,0.5 L193.062186,0.5 Z" id="矩形备份-2" fill-opacity="0.4" transform="translate(194.480522, 10.500000) scale(-1, 1) translate(-194.480522, -10.500000) "></path>
+                    <path d="M167.975229,0.5 L187.095648,20.5 L170.811901,20.5 L151.691482,0.5 L167.975229,0.5 Z" id="矩形备份-2" fill-opacity="0.35" transform="translate(169.393565, 10.500000) scale(-1, 1) translate(-169.393565, -10.500000) "></path>
+                    <path d="M17.4534901,0.5 L36.5739092,20.5 L20.2901623,20.5 L1.1697431,0.5 L17.4534901,0.5 Z" id="矩形备份-2" fill-opacity="0.05" transform="translate(18.871826, 10.500000) scale(-1, 1) translate(-18.871826, -10.500000) "></path>
+                    <path d="M42.5404466,0.5 L61.6608658,20.5 L45.3771188,20.5 L26.2566996,0.5 L42.5404466,0.5 Z" id="矩形备份-2" fill-opacity="0.1" transform="translate(43.958783, 10.500000) scale(-1, 1) translate(-43.958783, -10.500000) "></path>
+                    <path d="M67.6274031,0.5 L86.7478223,20.5 L70.4640753,20.5 L51.3436561,0.5 L67.6274031,0.5 Z" id="矩形备份-2" fill-opacity="0.15" transform="translate(69.045739, 10.500000) scale(-1, 1) translate(-69.045739, -10.500000) "></path>
+                    <path d="M92.7143596,0.5 L111.834779,20.5 L95.5510318,20.5 L76.4306127,0.5 L92.7143596,0.5 Z" id="矩形备份" fill-opacity="0.2" transform="translate(94.132696, 10.500000) scale(-1, 1) translate(-94.132696, -10.500000) "></path>
+                    <path d="M142.888273,0.5 L162.008692,20.5 L145.724945,20.5 L126.604526,0.5 L142.888273,0.5 Z" id="矩形" fill-opacity="0.3" transform="translate(144.306609, 10.500000) scale(-1, 1) translate(-144.306609, -10.500000) "></path>
+                    <path d="M117.801316,0.5 L136.921735,20.5 L120.637988,20.5 L101.517569,0.5 L117.801316,0.5 Z" id="矩形" fill-opacity="0.25" transform="translate(119.219652, 10.500000) scale(-1, 1) translate(-119.219652, -10.500000) "></path>
+                </g>
+                <g id="编组-33" transform="translate(1458.000000, 12.500000) scale(-1, 1) translate(-1458.000000, -12.500000) translate(1238.000000, 2.000000)" fill="#2D98FF" stroke="#2D98FF" stroke-opacity="0.3">
+                    <path d="M318.496968,0.5 L337.617388,20.5 L321.333641,20.5 L302.213221,0.5 L318.496968,0.5 Z" id="矩形备份-2" fill-opacity="0.6" transform="translate(319.915304, 10.500000) scale(-1, 1) translate(-319.915304, -10.500000) "></path>
+                    <path d="M343.583925,0.5 L362.704344,20.5 L346.420597,20.5 L327.300178,0.5 L343.583925,0.5 Z" id="矩形备份-2" fill-opacity="0.6" transform="translate(345.002261, 10.500000) scale(-1, 1) translate(-345.002261, -10.500000) "></path>
+                    <path d="M368.670881,0.5 L387.791301,20.5 L371.507554,20.5 L352.387134,0.5 L368.670881,0.5 Z" id="矩形备份-2" fill-opacity="0.6" transform="translate(370.089217, 10.500000) scale(-1, 1) translate(-370.089217, -10.500000) "></path>
+                    <path d="M393.757838,0.5 L412.878257,20.5 L396.59451,20.5 L377.474091,0.5 L393.757838,0.5 Z" id="矩形备份" fill-opacity="0.6" transform="translate(395.176174, 10.500000) scale(-1, 1) translate(-395.176174, -10.500000) "></path>
+                    <path d="M418.844794,0.5 L437.965214,20.5 L421.681467,20.5 L402.561047,0.5 L418.844794,0.5 Z" id="矩形" fill-opacity="0.6" transform="translate(420.263131, 10.500000) scale(-1, 1) translate(-420.263131, -10.500000) "></path>
+                    <path d="M268.323055,0.5 L287.443474,20.5 L271.159727,20.5 L252.039308,0.5 L268.323055,0.5 Z" id="矩形" fill-opacity="0.55" transform="translate(269.741391, 10.500000) scale(-1, 1) translate(-269.741391, -10.500000) "></path>
+                    <path d="M293.410012,0.5 L312.530431,20.5 L296.246684,20.5 L277.126265,0.5 L293.410012,0.5 Z" id="矩形" fill-opacity="0.6" transform="translate(294.828348, 10.500000) scale(-1, 1) translate(-294.828348, -10.500000) "></path>
+                    <path d="M243.236099,0.5 L262.356518,20.5 L246.072771,20.5 L226.952352,0.5 L243.236099,0.5 Z" id="矩形备份" fill-opacity="0.5" transform="translate(244.654435, 10.500000) scale(-1, 1) translate(-244.654435, -10.500000) "></path>
+                    <path d="M218.149142,0.5 L237.269561,20.5 L220.985814,20.5 L201.865395,0.5 L218.149142,0.5 Z" id="矩形备份-2" fill-opacity="0.45" transform="translate(219.567478, 10.500000) scale(-1, 1) translate(-219.567478, -10.500000) "></path>
+                    <path d="M193.062186,0.5 L212.182605,20.5 L195.898858,20.5 L176.778439,0.5 L193.062186,0.5 Z" id="矩形备份-2" fill-opacity="0.4" transform="translate(194.480522, 10.500000) scale(-1, 1) translate(-194.480522, -10.500000) "></path>
+                    <path d="M167.975229,0.5 L187.095648,20.5 L170.811901,20.5 L151.691482,0.5 L167.975229,0.5 Z" id="矩形备份-2" fill-opacity="0.35" transform="translate(169.393565, 10.500000) scale(-1, 1) translate(-169.393565, -10.500000) "></path>
+                    <path d="M17.4534901,0.5 L36.5739092,20.5 L20.2901623,20.5 L1.1697431,0.5 L17.4534901,0.5 Z" id="矩形备份-2" fill-opacity="0.05" transform="translate(18.871826, 10.500000) scale(-1, 1) translate(-18.871826, -10.500000) "></path>
+                    <path d="M42.5404466,0.5 L61.6608658,20.5 L45.3771188,20.5 L26.2566996,0.5 L42.5404466,0.5 Z" id="矩形备份-2" fill-opacity="0.1" transform="translate(43.958783, 10.500000) scale(-1, 1) translate(-43.958783, -10.500000) "></path>
+                    <path d="M67.6274031,0.5 L86.7478223,20.5 L70.4640753,20.5 L51.3436561,0.5 L67.6274031,0.5 Z" id="矩形备份-2" fill-opacity="0.15" transform="translate(69.045739, 10.500000) scale(-1, 1) translate(-69.045739, -10.500000) "></path>
+                    <path d="M92.7143596,0.5 L111.834779,20.5 L95.5510318,20.5 L76.4306127,0.5 L92.7143596,0.5 Z" id="矩形备份" fill-opacity="0.2" transform="translate(94.132696, 10.500000) scale(-1, 1) translate(-94.132696, -10.500000) "></path>
+                    <path d="M142.888273,0.5 L162.008692,20.5 L145.724945,20.5 L126.604526,0.5 L142.888273,0.5 Z" id="矩形" fill-opacity="0.3" transform="translate(144.306609, 10.500000) scale(-1, 1) translate(-144.306609, -10.500000) "></path>
+                    <path d="M117.801316,0.5 L136.921735,20.5 L120.637988,20.5 L101.517569,0.5 L117.801316,0.5 Z" id="矩形" fill-opacity="0.25" transform="translate(119.219652, 10.500000) scale(-1, 1) translate(-119.219652, -10.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
